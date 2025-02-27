@@ -3,6 +3,8 @@
 ## Descrição do Projeto
 O **Reaction Matrix Challenge** é um jogo interativo desenvolvido para o Raspberry Pi Pico que testa os reflexos do jogador. O projeto combina uma matriz LED 5x5, um display OLED, botões de entrada e um buzzer para criar uma experiência envolvente. O objetivo é reagir rapidamente aos estímulos visuais (LEDs) e avançar por 10 fases, com feedback sonoro e visual indicando acertos, erros e vitória.
 
+Vídeo: https://drive.google.com/file/d/16WqDhuLz2b5U8GDqVL9_4T_svI00eGPl/view?usp=sharing
+
 ---
 
 ## Funcionalidades Principais
